@@ -1,0 +1,29 @@
+.body {
+    width: 100%;
+    margin: 5px;
+}
+
+.container-fluid {
+    width: 960px;
+    height: auto;
+    text-align: center;
+   
+}
+
+.jumbotron{
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 10 px;
+    color: white;
+}
+
+.h3 {
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 5 px;
+    color: white;
+
+}
+
+.button {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    
+} 

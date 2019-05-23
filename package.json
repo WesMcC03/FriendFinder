@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/WesMcC03/FriendFinder/issues"
   },
-  "homepage": "https://github.com/WesMcC03/FriendFinder#readme"
+  "homepage": "https://github.com/WesMcC03/FriendFinder#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.17.0",
+    "node": "^12.3.0",
+    "parser": "^0.1.4"
+  }
 }
